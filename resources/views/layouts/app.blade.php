@@ -23,7 +23,7 @@
         ]); ?>
     </script>
 </head>
-  <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60" onload="myFunction()">
+  <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 		@include('partial.header')
 		@yield('content')
 		@include('partial.footer')

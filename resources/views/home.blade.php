@@ -38,7 +38,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="img/myweb.png" style="height:180px;width:110%; margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -52,13 +52,13 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="img/timesheet.png" style="height:180px;width:110%; margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
 						<h4>Timesheet Management</h4>
 						<br>
-						<p>This project was started by me alone as training mini project for the my new company currently workign there. Currently still doing it.</p>
+						<p>This project was started by me alone as training - mini project for my current company im working at. Currently still doing it.</p>
 						<p>This project were develop using c#, MVC 5 Framework and using MVC, Repositary, N-Tier Architecture technique.</p>
 					</div>
 				</div>
@@ -69,7 +69,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="images/online_learning.jpg" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -83,7 +83,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="img/ohana.png" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -98,7 +98,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="img/eztimetable.png" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -112,7 +112,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px; margin-left:-15px;" />
+						<img src="images/online_learning.jpg" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -135,8 +135,8 @@
 					<h1 id="timeline">Summary of<span class="deco"> my life</span> Timeline</h1>
 				</div>
 				<ul class="timeline">
-					<li class="timeline-inverted">>
-					  <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
+					<li class="timeline-inverted">
+					  <div class="timeline-badge danger"><i class="fa fa-briefcase"></i></div>
 					  <div class="timeline-panel">
 						<div class="timeline-heading">
 						  <h4 class="timeline-title">Work Experience</h4>
@@ -149,7 +149,7 @@
 					  </div>
 					</li>
 					<li class="timeline">
-					  <div class="timeline-badge success"><i class="glyphicon glyphicon-thumbs-up"></i></div>
+					  <div class="timeline-badge success"><i class="fa fa-graduation-cap"></i></div>
 					  <div class="timeline-panel">
 						<div class="timeline-heading">
 						  <h4 class="timeline-title">Education [Part-Time]</h4>
@@ -160,8 +160,8 @@
 						</div>
 					  </div>
 					</li>
-					<li class="timeline-inverted">>
-					  <div class="timeline-badge danger"><i class="glyphicon glyphicon-credit-card"></i></div>
+					<li class="timeline-inverted">
+					  <div class="timeline-badge danger"><i class="fa fa-briefcase"></i></div>
 					  <div class="timeline-panel">
 						<div class="timeline-heading">
 						  <h4 class="timeline-title">Work Experience</h4>
@@ -174,7 +174,7 @@
 					  </div>
 					</li>
 					<li>
-					  <div class="timeline-badge info"><i class="glyphicon glyphicon-floppy-disk"></i></div>
+					  <div class="timeline-badge info"><i class="fa fa-briefcase"></i></div>
 					  <div class="timeline-panel">
 						<div class="timeline-heading">
 						  <h4 class="timeline-title">Work Experience</h4>
@@ -203,7 +203,7 @@
 					  </div>
 					</li>
 					<li class="timeline-inverted">
-					  <div class="timeline-badge success"><i class="glyphicon glyphicon-thumbs-up"></i></div>
+					  <div class="timeline-badge success"><i class="fa fa-graduation-cap"></i></div>
 					  <div class="timeline-panel">
 						<div class="timeline-heading">
 						  <h4 class="timeline-title">Education</h4>
@@ -258,14 +258,13 @@
           <div class="contact-sec text-center">
             <h2>Want To <span class="deco">Contact</span> Me?</h2>
             <p>My Email is : asyafiq99@gmail.com</p>
-            <p>Or if want me to contact u, please leave a message below.</p>
+            <p>Or if want me to contact you, please leave a message below.</p>
           </div>
         </div>
         
         <div class="col-md-8 col-md-push-2">
-            <div id="sendmessage">Your message has been sent. Thank you!</div>
             <div id="errormessage"></div>
-            <form action="/email" method="post" role="form" class="contactForm">
+            <form action="/contactme" method="post" role="form" class="contactForm">
 				{{ csrf_field() }}
                 <div class="form-group">
                     <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -292,6 +291,23 @@
     </div>
   </section>
   
+	<div id="message" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">Message</h4>
+				</div>
+				<div class="modal-body">
+					<p>Your message has been sent. Thank you!</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+  
   
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.easing.min.js"></script>
@@ -299,6 +315,21 @@
 <script src="js/jquery.bxslider.min.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/custom.js"></script>
+
+@if(!empty($msg))
+	<script>
+	$(function() {
+		@if($msg == 2)
+			$(".modal-body").html("Error in sending message. Please try again later.");
+		@endif
+		$('#message').modal('show');
+	});
+	
+	$('#message').on('hidden.bs.modal', function () {
+		window.location.replace("/");
+	});
+	</script>
+@endif
 
 @endsection
 

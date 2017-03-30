@@ -125,6 +125,11 @@ Responsive media queries
 	background-size: cover;
 	margin-bottom: -3px;
 }
+#wtimeline{
+	background: url('../img/mylife.jpg') no-repeat;
+	background-size: cover;
+	margin-bottom: -3px;
+}
 .section-padding{
 	padding: 60px 0px;
 }

@@ -12,4 +12,4 @@
 */
 
 Route::get('/', 'HomeController@index');
-Route::post('/email', 'EmailController@email_hdl');
+Route::post('/contactme', 'ContactController@contact_hdl');
