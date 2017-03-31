@@ -6,9 +6,11 @@
       <div class="row">
           <div class="col-md-6">
               <div class="footer">
-                  © Copyright Laura Theme. All Rights Reserved
+					
                     <div class="credits">
                         <!-- 
+							© Copyright Laura Theme. All Rights Reserved
+						
                             All the links in the footer should remain intact. 
                             You can delete the links only if you purchased the pro version.
                             Licensing information: https://bootstrapmade.com/license/
@@ -21,22 +23,22 @@
           <div class="col-md-6 text-right">
               <ul class="social-list">
                   <li>
-                      <a href="#">
+                      <a target="_blank" href="https://www.linkedin.com/in/asyafiq99/">
+                          <i class="fa fa-linkedin"></i>
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="https://www.facebook.com/asyafiq99">
+                          <i class="fa fa-facebook"></i>
+                      </a>
+                  </li>
+                  <li>
+                      <a target="_blank" href="https://twitter.com/AhmadSyafiq94">
                           <i class="fa fa-twitter"></i>
                       </a>
                   </li>
                   <li>
-                      <a href="#">
-                          <i class="fa fa-dribbble"></i>
-                      </a>
-                  </li>
-                  <li>
-                      <a href="#">
-                          <i class="fa fa-vimeo"></i>
-                      </a>
-                  </li>
-                  <li>
-                      <a href="#">
+                      <a target="_blank" href="https://www.instagram.com/syafiq.anuar/">
                           <i class="fa fa-instagram"></i>
                       </a>
                   </li>
