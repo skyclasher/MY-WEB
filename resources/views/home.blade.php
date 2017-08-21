@@ -11,8 +11,9 @@
         </div>
         <div class="col-md-6 text-left">
           <div class="about-text">
-            <p>Hello ! My name is Ahmad Syafiq. You can call me Syafiq. I am a programmer and a web developer specialising in back-end and web-based production. I have been doing programming almost 2 years. Im still consider myself as junior as i still have a lot of things to learn. I have experience in PHP, JavaScript, JQuery, C#, MYSQL, MSSQL, Android Studio, and Framework in Laravel & MVC 5</p>
-            <p>&nbsp;</p>
+            </br>
+			<p>Hello ! My name is Ahmad Syafiq. You can call me Syafiq. I am a programmer and a web developer specialising in back-end and web-based production. I have been doing programming almost 2 years. Im still consider myself as junior as i still have a lot of things to learn. I have experience in PHP, JavaScript, JQuery, C#, MYSQL, MSSQL, Android Studio, and Framework in Laravel & MVC 5</p>
+            
             <p>I’m always open to exciting new job opportunities, with my Curriculum Vitae available on request. Please get in touch, it would be great to hear from you.</p>
             <p>&nbsp;</p>
             <ul class="abt-list">
@@ -26,6 +27,7 @@
       </div>
     </div>
   </section>
+  
   <section id="portfolio" class="section-padding wow fadeInUp delay-05s">
     <div class="container">
       <div class="row">
@@ -127,6 +129,7 @@
       </div>
     </div>
   </section>
+  
   <section id="wtimeline" class="section-padding wow fadeInUp">
 	<div class="container">
 		<div class="row">
@@ -251,6 +254,7 @@
 		</div>
     </div>
   </section>
+  
   <section id="contact" class="section-padding wow fadeIn delay-05s">
     <div class="container">
       <div class="row">
@@ -285,6 +289,19 @@
                 
                 <div class="text-center"><button type="submit" class="btn btn-primary btn-lg">Send Message</button></div>
             </form>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  
+  <section id="radio" class="section-padding wow fadeIn delay-05s">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="contact-sec text-center">
+           <iframe src="http://www.bakaradio.net/musicbox/anime/radio.php?anime=4" width="960" height="200" frameborder="0" scrolling="no"></iframe>
+          </div>
         </div>
         
       </div>
