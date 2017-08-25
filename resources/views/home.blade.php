@@ -12,7 +12,7 @@
         <div class="col-md-6 text-left">
           <div class="about-text">
             </br>
-			<p>Hello ! My name is Ahmad Syafiq. You can call me Syafiq. I am a programmer and a web developer specialising in back-end and web-based production. I have been doing programming almost 2 years. Im still consider myself as junior as i still have a lot of things to learn. I have experience in PHP, JavaScript, JQuery, C#, MYSQL, MSSQL, Android Studio, and Framework in Laravel & MVC 5</p>
+			<p>Hello ! My name is Ahmad Syafiq. You can call me Syafiq. I am a programmer and a web developer specializing in back-end and web-based production. I have been doing programming almost 2 years. I still consider myself as a junior as I still have a lot of things to learn. I have experience in PHP, JavaScript, JQuery, C#, MYSQL, MSSQL, Android Studio, and Framework in Laravel & MVC 5</p>
             
             <p>I’m always open to exciting new job opportunities, with my Curriculum Vitae available on request. Please get in touch, it would be great to hear from you.</p>
             <p>&nbsp;</p>
@@ -46,7 +46,7 @@
 					<div class="col-sm-9 col-md-9 col-xs-12">  
 						<h4>My Website</h4>
 						<br>
-						<p>This website that i publish is not finish yet. I am trying to make more functions and dynamically to add or remove content using databse. For now, everything is hard coded and no interaction with database.</p>
+						<p>This website that i publish is not finish yet. I am trying to make more functions and dynamically to add or remove content using database. For now, everything is hard coded and no interaction with database except for the message box.</p>
 						<p>This project were develop using Laravel Framework and using MVC technique.</p>
 					</div>
 				</div>
@@ -289,19 +289,6 @@
                 
                 <div class="text-center"><button type="submit" class="btn btn-primary btn-lg">Send Message</button></div>
             </form>
-        </div>
-        
-      </div>
-    </div>
-  </section>
-  
-  <section id="radio" class="section-padding wow fadeIn delay-05s">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="contact-sec text-center">
-           <iframe src="http://www.bakaradio.net/musicbox/anime/radio.php?anime=4" width="960" height="200" frameborder="0" scrolling="no"></iframe>
-          </div>
         </div>
         
       </div>

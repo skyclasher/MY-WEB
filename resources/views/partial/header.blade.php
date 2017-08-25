@@ -5,7 +5,7 @@
 	<nav class="navbar navbar-default navbar-fixed-top">
 	  <div class="container">
 		<div class="navbar-header">
-		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#lauraMenu">
+		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#lauraMenu"  onclick="ChangeBgColor();">
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
@@ -42,3 +42,11 @@
 	</div>
   </div>
 <!-- /top navigation -->
+
+<script type="text/javascript">
+function ChangeBgColor(){
+	if($(".navbar-default").css("background-color") == "rgba(0, 0, 0, 0)")
+		$(".navbar-default").css("background-color", "rgba(50, 60, 70, 0.9)");
+}
+
+</script>

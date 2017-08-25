@@ -11,5 +11,10 @@
 |
 */
 
+Auth::routes();
 Route::get('/', 'HomeController@index');
 Route::post('/contactme', 'ContactController@contact_hdl');
+
+Route::get('/admin', 'AdminController@index');
+
+Route::get('/home', 'HomeController@index');

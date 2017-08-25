@@ -2,15 +2,20 @@
 
 namespace App\Http\Controllers;
 
-use View;
-use App\Models;
-use Carbon\Carbon;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Redirect;
-use Illuminate\Support\Facades\Input;
+use Visitor;
 
 class HomeController extends Controller
 {
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    /**public function __construct()
+    {
+        $this->middleware('auth');
+    }*/
 
     /**
      * Show the application dashboard.
@@ -19,6 +24,7 @@ class HomeController extends Controller
      */
     public function index()
     {
+        Visitor::log();
         return view('home');
     }
 }
