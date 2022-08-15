@@ -21,7 +21,8 @@
 
                                 <p>I’m always open to exciting new job opportunities, with my Curriculum Vitae available on
                                     request.
-                                    Please get in touch, it would be great to hear from you.</p>
+                                    Please get in touch, it would be great to hear from you.
+                                    My Git profile can be find <a href="https://github.com/skyclasher" target="_blank">here</a>.</p>
                                 <p>&nbsp;</p>
                                 <ul class="abt-list">
                                     <li>Three words to describe myself :</li>
