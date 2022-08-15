@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Visitor;
 
 class HomeController extends Controller
 {
@@ -24,7 +23,6 @@ class HomeController extends Controller
      */
     public function index()
     {
-        Visitor::log();
         return view('home');
     }
 }

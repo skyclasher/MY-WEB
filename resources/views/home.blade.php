@@ -71,7 +71,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
+						<img src="https://via.placeholder.com/200x150/EFEFEF/AAAAAA&text=no+image" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
@@ -114,7 +114,7 @@
 			<div class="col-sm-12 col-md-12 col-xs-12">
 				<div class="thumbnail" style="border:none;background-color:inherit">
 					<div class="col-sm-3 col-md-3 col-xs-12 image-container">
-						<img src="images/online_learning.jpg" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
+						<img src="https://via.placeholder.com/200x150/EFEFEF/AAAAAA&text=no+image" style="height:200px;height:180px;width:110%;  margin-left:-15px;" />
 					</div>
 
 					<div class="col-sm-9 col-md-9 col-xs-12">  
