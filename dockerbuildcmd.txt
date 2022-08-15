@@ -1,0 +1,3 @@
+docker build -t myweb .
+docker tag myweb:latest [registryhost]/myweb:latest
+docker push [registryhost]/myweb:latest
